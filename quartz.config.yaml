@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: thehighlands.github.io
+  baseUrl: calhouncouch.github.io/the-highlands
   ignorePatterns:
     - private
     - templates
