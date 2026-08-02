@@ -25,5 +25,6 @@ The Spawn of Chaos:
 1. [[Desire]], *The Conduit of Mortal Desire*
 2. [[Strife]], *The Wings of Mortal Strife*
 3. [[Rot]], *The Inevitability of Mortal Rot*
+4. [[Quietus]], *The Faces of Mortal Death*
 
 
