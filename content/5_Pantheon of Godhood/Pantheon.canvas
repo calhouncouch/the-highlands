@@ -1,1 +1,7 @@
-{}
+{
+	"nodes":[
+		{"id":"633f3edda428a95a","x":-294,"y":-261,"width":400,"height":400,"type":"file","file":"5_Pantheon of Godhood/Deities/Deity.md"},
+		{"id":"aa54d953232234d9","x":-294,"y":200,"width":400,"height":400,"type":"file","file":"5_Pantheon of Godhood/Grand Elementals/Grand Elemental.md"}
+	],
+	"edges":[]
+}
