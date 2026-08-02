@@ -1,3 +1,3 @@
 
-Is a [[Vestige]] of [[Astrula]].
+Is a [[_Vestige]] of [[Astrula]].
 

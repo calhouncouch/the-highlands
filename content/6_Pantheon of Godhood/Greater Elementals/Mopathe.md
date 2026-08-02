@@ -1,12 +1,12 @@
 
 ### <span style="color:rgb(237, 33, 0)"><i>Destruction Incarnate</i></span>
-Pronounced: MO PATH EH
+Pronounced: MO PATH AY
 Color: Scarlet Red (#ED2100 or 237, 33, 0)
 
 *Mopathe exists to destroy, to make way for new creation.*
 
 #### Place in the Pantheon
-Mopathe is a [[Greater Elemental]].
+Mopathe is a [[_Greater Elemental]].
 
 From their essence came:
 - [[Mavorus]], *The Unending Army*

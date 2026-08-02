@@ -6,7 +6,7 @@ Color: Black (#000000 or 0,0,0)
 *Anathet holds all things subject to change and disorder.*
 
 #### Place in the Pantheon
-Anathet is a [[Greater Elemental]].
+Anathet is a [[_Greater Elemental]].
 From their essence came:
 - [[Desire]], *The Conduit of Mortal Desire*
 - [[Strife]], *The Wings of Moral Strife*

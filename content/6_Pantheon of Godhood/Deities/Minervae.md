@@ -1,2 +1,2 @@
 
-Is a [[Deity]]. 
+Is a [[_Deity]]. 

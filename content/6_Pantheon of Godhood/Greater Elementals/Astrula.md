@@ -6,7 +6,7 @@ Color: Azure (#007FFF or 0, 127, 255)
 *Astrula created the laws that govern our physical world.*
 
 #### Place in the Pantheon
-Astrula is a [[Greater Elemental]].
+Astrula is a [[_Greater Elemental]].
 From their essence came:
 - [[Minervae]], *The Lady of the Forge*
 - [[Rot]], *The Inevitability of Mortal Rot*
@@ -14,7 +14,7 @@ From their essence came:
 - [[Kolasi]], *The Growing Inferno*
 - [[Liligothra]], *The Tempting Snare*
 
-Her [[Vestige]]s are:
+Her [[_Vestige]]s are:
 - [[Ba'mahemot]], *Progenitor of the Occult Sciences*
 - [[Elyisnia]], *Shepard of the Cosmos*
 

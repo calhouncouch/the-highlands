@@ -3,7 +3,7 @@ The Party consists of five members:
 - [[Jess]]
 - [[Aduro]]
 - [[Dulrum]]
-- [[Leoc]]
+- [[Leoc Everstead]]
 - [[Ibrem]]
 
 

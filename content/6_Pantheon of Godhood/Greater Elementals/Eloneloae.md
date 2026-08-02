@@ -6,7 +6,7 @@ Color: Bright Yellow (#FFED29 or 255, 237, 41)
 *The gift of free will was granted to mortals by Eloneloae.* 
 
 #### Place in the Pantheon 
-Eloneloae is a [[Greater Elemental]].
+Eloneloae is a [[_Greater Elemental]].
 From their essence came:
 - [[Cavernicus]], The Weapons of the Betrayed
 - [[Desire]], The Conduit of Mortal Desire

@@ -1,5 +1,5 @@
 
 ### *The Unending Army*
 
-Is a [[Deity]]. 
+Is a [[_Deity]]. 
 

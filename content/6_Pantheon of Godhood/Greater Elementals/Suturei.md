@@ -6,7 +6,7 @@ Color: Lime (#00FF00 or 0, 255, 0)
 *All life sprung from Suturei's essence.*
 
 #### Place in the Pantheon
-Suturei is a [[Greater Elemental]].
+Suturei is a [[_Greater Elemental]].
 
 Every living thing has its roots within Suturei's essence. As such, his presence is felt among every living thing, natural or artificial. 
 
