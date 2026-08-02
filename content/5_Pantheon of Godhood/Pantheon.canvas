@@ -1,7 +1,9 @@
 {
 	"nodes":[
-		{"id":"633f3edda428a95a","x":-294,"y":-261,"width":400,"height":400,"type":"file","file":"5_Pantheon of Godhood/Deities/Deity.md"},
-		{"id":"aa54d953232234d9","x":-294,"y":200,"width":400,"height":400,"type":"file","file":"5_Pantheon of Godhood/Grand Elementals/Grand Elemental.md"}
+		{"id":"633f3edda428a95a","type":"file","file":"5_Pantheon of Godhood/Deities/Deity.md","x":-294,"y":-261,"width":400,"height":400},
+		{"id":"aa54d953232234d9","type":"file","file":"5_Pantheon of Godhood/Greater Elementals/Greater Elemental.md","x":-294,"y":340,"width":400,"height":400}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"9c5b7b7fde044e37","fromNode":"633f3edda428a95a","fromSide":"bottom","toNode":"aa54d953232234d9","toSide":"top","color":"1"}
+	]
 }
