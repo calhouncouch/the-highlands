@@ -18,7 +18,7 @@ His [[_Vestige]]s are:
 Known Users of their essence:
 - [[Leoc Everstead]]
 - [[Ibrem]]
-- [[Maarx]]
+- [[Maarx Seedyr]]
 - [[THE RECKONER]]
 
 #### Spells
