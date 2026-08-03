@@ -56,7 +56,7 @@ Once you have everything, you are ready to begin.
 *I summon thee, Unseen Trickster*
 *Through your ineffable ways,*
 *I alone see you clearly this night*
-*Grant me planar passage*
+*Grant me Planar passage*
 *For under the glow of your moonlight*
 *Anything is possible.*
 

@@ -11,7 +11,7 @@ His essence originated from:
 - [[Mopathe]], *Destruction Incarnate*
 
 His [[_Vestige]]s are:
-- [[Aduro?]]
+- [[Aduro Clone]]
 - [[The Collective]]
 - [[The Wicked]]
 - [[The Thrasher]]

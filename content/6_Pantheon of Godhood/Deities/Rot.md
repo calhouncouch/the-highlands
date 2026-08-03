@@ -11,12 +11,13 @@ Its essence originates from:
 - [[Astrula]], *The Universal Constant*
 
 Its [[_Vestige]]s are:
+- [[Jess]]
 - [[The Gargenfallow]]
 - [[Disgrace]]
 - [[Paleangaos]]
 
 Known Users of its essence:
-- [[Jess]]
+
 
 #### Spells
 Damage types associated with Rot, *The Inevitability of Mortal Rot* are:

@@ -18,6 +18,6 @@ Another massive thank you to my wonderful partner. Thank you for aiding me and f
 
 Content warning for some material on this site. This lore is for a horror campaign, as such, it will contain themes and descriptions of things that you may find disturbing. Read at your own discretion. 
 
-I own none of the images used on this site. They have all be sourced from around the internet, and because of this, not all will have proper citations. I apologize for this. If there is artwork that you recognize that is not properly cited, please send me an email at thehighlandsartinspo@gmail.com.
+I own none of the images used on this site. They have all been sourced from around the internet, and because of this, not all will have proper citations. I apologize for this. If there is artwork that you recognize that is not properly cited, please send me an email at thehighlandsartinspo@gmail.com.
 
 -couch

@@ -6,7 +6,7 @@ Greater Elementals were the first appearance of life in any of the planes, repre
 
 #### Categorization
 
-There existed five Greater Elementals. It is said they are equal in power, however in modern times, that statement is held in contention. 
+There existed five Greater Elementals. It is said they are equal in power, however, in modern times that statement is held in contention. 
 
 The five Greater Elementals:
 1. [[Suturei]], *The Spring of Life*

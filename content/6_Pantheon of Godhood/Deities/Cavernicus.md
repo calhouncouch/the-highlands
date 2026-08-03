@@ -49,7 +49,7 @@ These rings are incredibly powerful, each one housing a deadly armament. To acce
 
 | Name                                    | Weapon        | Giant Ancestry | Ring # | Description                                                                                          |
 | --------------------------------------- | ------------- | -------------- | ------ | ---------------------------------------------------------------------------------------------------- |
-| *Maatkrigga*<br>//<br>**Onyx**          | Glaive        | Stone          | 1      | Oblamog's main weapon.                                                                               |
+| *Maatkrigga*<br>//<br>**Onyx**          | Glaive        | Stone          | 1      | [[Oblamog Ruiner]]'s main weapon.                                                                    |
 | *Tusenubuden*<br>//<br>**Stone Edge**   | Greataxe      | Stone          | 2      | A massive armament, capable of felling hoards of enemies.                                            |
 | *Skyeanfel* <br>//<br>**Cloudburst**    | Bow           | Cloud          | 3      | Fires homing, air-bursting arrows which damage and heal.                                             |
 | *Sortspyd*<br>//<br>                    | Spear         | Cloud          | 4      | The Black Spear has the capacity to kill those who call themselves deathless.                        |
