@@ -16,7 +16,7 @@ Its [[_Vestige]]s are:
 - [[Paleangaos]]
 
 Known Users of its essence:
-- N/A
+- [[Jess]]
 
 #### Spells
 Damage types associated with Rot, *The Inevitability of Mortal Rot* are:
