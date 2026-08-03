@@ -11,7 +11,7 @@ His essence originates from:
 - [[Mavorus]], *The Unending Army*
 - [[Astrula]], *The Universal Constant*
 
-His Vestiges are:
+His [[_Vestige]]s are:
 - [[The Red Knight]]
 
 Known Users of his essence:
