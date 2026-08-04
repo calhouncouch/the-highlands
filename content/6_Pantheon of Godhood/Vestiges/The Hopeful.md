@@ -7,3 +7,5 @@ The Hopeful is a [[ _Vestige]] of Strife.
 
 - Hailey Ayea to the [[Gilded Masks]] 
 
+Excerpt from The [[Hidden Whispers Grimoire]]:
+	...A striking feature of such areas desecrated by Strife is the presence of fleshy growths, hereby referred to as Sarcous Cradles. 
