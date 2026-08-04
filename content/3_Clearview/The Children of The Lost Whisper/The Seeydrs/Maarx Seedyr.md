@@ -7,4 +7,5 @@ Maarx Panopeus Seedyr was the former leader of the [[Children of The Lost Whispe
 
 - Maarx to [[Ramathatus]], High Reverend of The Rotting Beast
 
+Character Theme: Husk of a Place, Husk of a Person | [Maximum Black](https://www.youtube.com/watch?v=v15-0atv0us&list=RDv15-0atv0us&start_radio=1) by Bohren & Der Club of Gore
 
