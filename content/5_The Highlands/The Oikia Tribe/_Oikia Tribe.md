@@ -2,7 +2,7 @@
 #### Description
 Is a Goliath tribe situated in the Northern regions of [[The Highlands]].
 
-The Oikia people are reclusive compared to their neighbors. Where most societies hold reverence for multiple [[_Deity | Deities]], Oikia's venerate only one: [[Cavernicus]], *The Weapons of the Betrayed*. 
+The Oikia people are reclusive compared to their neighbors. Where most societies hold reverence for multiple [[_Deity | Deities]], Oikia venerate only one: [[Cavernicus]], *The Weapons of the Betrayed*. 
 
 It is said that [[Cavernicus]] is the divine ancestor of Giants, and thus, Goliaths. As such, praise and worship to other Deities from fellow Oikia is looked down upon at best and is grounds for execution at worst. 
 

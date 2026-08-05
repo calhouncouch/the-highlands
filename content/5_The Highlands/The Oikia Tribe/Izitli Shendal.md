@@ -1,6 +1,6 @@
 
 ![[Izitli Token.png]]
 #### Description
-Was a member of the [[Oikia Tribe]].
+Was a member of the [[_Oikia Tribe]].
 
 
