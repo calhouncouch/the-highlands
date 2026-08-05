@@ -2,6 +2,7 @@
 ### <span style="color:rgb(75, 0, 130)"><i>The Weapons of the Betrayed</i></span>
 Pronounced: CA VER KNEE KUS
 Color: Indigo (#4B0082 or 75, 0, 130)
+Aliases: The God of Giants
 
 *Cavernicus is the retribution to those who do wrong.*
 

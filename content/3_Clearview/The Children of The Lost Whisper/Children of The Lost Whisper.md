@@ -2,7 +2,7 @@
 #### Description
 Is a cult founded by [[Maarx Seedyr]] that operates within [[Clearview]]. Its original purpose was to venerate and fully summon the Spawn of Chaos [[Desire]]. However, as its influence grew, so too did their knowledge. [[Desire]] was not a lone [[_Deity]], he had two siblings: [[Strife]] and [[Rot]]. This revelation brought differences in belief among the cult's members, eventually leading to the cult's separation into three denominations. 
 
-"*We are ordained by the most high. Our function clear, our purpose absolute. The Great and Loving Sequestered One will lead us on to a new age*."
+"*We are ordained by the most high. Our function clear, our purpose absolute. The Great and Loving [[Desire |Sequestered One]] will lead us on to a new age*."
 
 - [[Maarx Seedyr]] to his early group of acolytes 
 
