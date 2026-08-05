@@ -8,7 +8,7 @@ Color: Indigo (#4B0082 or 75, 0, 130)
 #### Place in the Pantheon
 Cavernicus is a [[_Deity]]. 
 His essence originates from:
-- [[Mavorus]], *The Unending Army*
+- [[Mopathe]], *Destruction Incarnate*
 - [[Eloneloae]], *The Seed of Choice*
 
 His [[_Vestige]]s are:

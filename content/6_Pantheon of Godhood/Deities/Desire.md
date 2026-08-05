@@ -1,7 +1,7 @@
 
 ### <span style="color:rgb(112, 41, 99)"><i>The Conduit of Mortal Desire</i></span>
 Color: Byzantium (#702963 or 112, 41, 99)
-Aliases: The Shadowman, Mr. Porter
+Aliases: The Shadowman, Mr. Porter, The Sequestered One
 
 *Desire is the dark cravings of man made manifest.*
 

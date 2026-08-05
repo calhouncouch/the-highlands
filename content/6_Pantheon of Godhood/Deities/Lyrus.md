@@ -14,7 +14,7 @@ His [[_Vestige]]s are:
 - N/A
 
 Known Users of his essence:
-- Arthur
+- [[Arthur]]
 
 #### Spells
 Damage types associated with Lyrus, *The Unseen Trickster* are:

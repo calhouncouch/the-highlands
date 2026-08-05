@@ -1,6 +1,7 @@
 
 ### <span style="color:rgb(149, 53, 83)"><i>The Wings of Mortal Strife</i></span>
 Color: Classic Red Purple (149, 53, 83)
+Aliases: The Gore-Hunger
 
 *Strife is the mortal inclination for conflict made manifest.* 
 
