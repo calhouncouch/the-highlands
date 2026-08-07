@@ -9,7 +9,7 @@ The Main Group of Deities Currently Worshipped in [[Corininth]]:
 2. [[Minervae]], *The Lady of The Forge*
 3. [[Caligo]], *The Mystwalker*
 
-The Deities Currently Worshipped in Feylocke:
+The Deities Currently Worshipped in [[Feylocke]]:
 1. [[Mesenrie]], *The Free Spirit*
 2. [[Cavernicus]], *The Weapons of the Betrayed*
 3. [[Lyrus]], *The Unseen Trickster*
