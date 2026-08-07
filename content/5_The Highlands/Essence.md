@@ -20,7 +20,7 @@ Due to each Deity's unique composition from their ancestors, their Essence's var
 
 You may ask, then, how do [[Mavorus]] and [[Folm]] differ? They both draw their Essences from [[Mopathe]] *and* [[Astrula]]. The common answer is that they draw Essence from their originators at different ratios. [[Folm]]'s Essence is more based in [[Astrula]] than [[Mopathe]], and [[Mavorus]] vis versa.
 
-However, there is one oddity to this theory: *Why do the Essences of [[Eloneloae]]'s offspring vary when some only draw their origins from him?* Why and how is [[Mesenrie]], [[Liligothra]], and [[Lyrus ]]all different when they draw their power from the same source? This question is debated today, but, one theory that many posit is that Eloneloae's Essence is simply more varied and complex than His [[_Greater Elemental]] siblings. 
+However, there is one oddity to this theory: *Why do the Essences of [[Eloneloae]]'s offspring vary when some only draw their origins from him?* Why and how is [[Mesenrie]], [[Liligothra]], and [[Lyrus ]] all different when they draw their power from the same source? This question is debated today, but, one theory that many posit is that Eloneloae's Essence is simply more varied and complex than His [[_Greater Elemental]] siblings. 
 
 #### Mortal Essence
 Mortals, being living creatures, possess their own Essence.
