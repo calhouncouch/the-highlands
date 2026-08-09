@@ -53,7 +53,7 @@ These rings are incredibly powerful, each one housing a deadly armament. To acce
 | *Maatkrigga*<br>//<br>**Onyx**          | Glaive        | Stone          | 1      | [[Oblamog Ruiner]]'s main weapon.                                                                    |
 | *Tusenubuden*<br>//<br>**Stone Edge**   | Greataxe      | Stone          | 2      | A massive armament, capable of felling hoards of enemies.                                            |
 | *Skyeanfel* <br>//<br>**Cloudburst**    | Bow           | Cloud          | 3      | Fires homing, air-bursting arrows which damage and heal.                                             |
-| *Sortspyd*<br>//<br>                    | Spear         | Cloud          | 4      | The Black Spear has the capacity to kill those who call themselves deathless.                        |
+| *Sortspyd*<br>//<br>**Black Spear**     | Spear         | Cloud          | 4      | The Black Spear has the capacity to kill those who call themselves deathless.                        |
 | *Haugvonin*<br>//<br>                   | Gauntlets     | Hill           | 5      | Twin gauntlets excellent at throwing enemies around. Their force is that of legend.                  |
 | *Fjellesse*<br>//<br>**Rockweaver**     | Quarterstaff  | Hill           | 6      | Capable of manipulating the very earth.                                                              |
 | *Uvarfesting*<br>//<br>Stormsiege       | Shield        | Storm          | 7      | Two handed siege shield that converts kinetic energy and disperses it as lightning.                  |
