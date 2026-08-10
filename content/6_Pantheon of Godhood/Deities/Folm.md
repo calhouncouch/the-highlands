@@ -11,7 +11,7 @@ His essence originates from:
 - [[Astrula]], *The Universal Constant*
 
 His [[_Vestige]]s are:
-- N/A
+- [[Baragulva]] 
 
 Known Users of his essence:
 - N/A
@@ -23,6 +23,7 @@ Damage Types Associated with Folm, *The Gaping Maw* are:
 - Piercing
 - Poison
 
+#### Order of The Maw
 
 
 
