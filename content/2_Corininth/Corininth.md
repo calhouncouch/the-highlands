@@ -35,10 +35,10 @@ Many gangs have been established during the messy passage of power from Monarchy
 - The [[_Ring]]
 
 #### Guilds
-Many smallfolk-run Guilds have recently been created to survive and try to better the city for future generations.
+Many smallfolk-run Guilds have recently been created to try to better the city for future generations.
 
-- The [[Scrappers Guild]]
-- The [[Apothecarists Guild]]
-- The [[Mechanauts Guild]]
+- The [[_Scrappers Guild]]
+- The [[_Apothecarists Guild]]
+- The [[_Mechanauts Guild]]
 
 
