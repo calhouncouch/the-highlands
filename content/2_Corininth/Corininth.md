@@ -2,7 +2,7 @@
 #### Description
 The Great Expanding City is a hub for many seeking new opportunities. 
 
-"*To our ever vigilant residents, we are honored to navigate our great city to new horizons! We will install new levels of peace and prosperity of which the likes have never been seen before. We here at [[Providence]] are just getting started.*"
+"*To our ever vigilant residents, we are honored to navigate our great city to new horizons! We will install new levels of peace and prosperity of which the likes have never been seen before. We here at [[_Providence]] are just getting started.*"
 - [[Maestro]] during a Corininth city gathering
 
 #### History
@@ -14,7 +14,31 @@ The Kingdom of Corininth, along with other settlements around the Lake, agreed o
 
 Whispers began to circulate through the Kingdom. Subtle suggestions of corruption within the Monarchy stirred the populace. A single group claimed they knew why people were going missing, why boats would never return to shore, *why strange monsters were being sighted*. They claimed they knew how to fix this too, but that there would need to be a major reform to the Kingdom. 
 
-[[Providence]] positioned themselves as new leaders. They led the charge against the Corine Family. 
+[[_Providence]] positioned themselves as new leaders. They led the charge against the Corine Family. 
 
 #### Corporations
 Many corporations have sprung up since the previous Monarchy was overthrown. 
+
+- [[_Providence]]
+- [[_BioImmune]]
+- [[_Metalworks Forging]]
+- [[_Corinthian Dockside Recieving]]
+- [[_Golden Grain Mills]]
+
+#### Gangs
+Many gangs have been established during the messy passage of power from Monarchy to Providence.
+
+- The [[_Black Powder]]
+- The [[_Overlords]]
+- The [[_Pillars]]
+- The [[_Tide]]
+- The [[_Ring]]
+
+#### Guilds
+Many smallfolk-run Guilds have recently been created to survive and try to better the city for future generations.
+
+- The [[Scrappers Guild]]
+- The [[Apothecarists Guild]]
+- The [[Mechanauts Guild]]
+
+

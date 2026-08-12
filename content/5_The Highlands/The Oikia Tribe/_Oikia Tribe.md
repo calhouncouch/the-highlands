@@ -22,7 +22,7 @@ Bloodlines and heritability are held in high esteem. Being of mixed blood is loo
 Honorable acts are a core part of combat for the Oikia. Stating one's name and intention during combat is viewed as Honorable, and in contrast, lying or purposely withholding such information is viewed as Dishonorable. Employing tactics such as poisons, mirages, or other inhibiting magics are *very Dishonorable*. 
 
 #### The Oikic Slaughter
-Many such tribes faced the same fate as the Oikia. Being situated nearby to [[Corininth]], it was only a matter of time until a group known as [[Providence]] made their presence known. To [[Providence]], their terms were simple: give up your land, and in exchange, we will incorporate your people into our benevolent empire. 
+Many such tribes faced the same fate as the Oikia. Being situated nearby to [[Corininth]], it was only a matter of time until a group known as [[_Providence]] made their presence known. To [[_Providence]], their terms were simple: give up your land, and in exchange, we will incorporate your people into our benevolent empire. 
 
 The Oikia knew better. They knew that this group had overthrown the Monarchy which held dominion over the city and its lands. Relations between The Oikia Tribe and the [[Monarchy of Corininth]] were stable in the past, with both parties benefiting from each other. The Oikia provided knowledge about [[Cavernicus]] to a greatly interested kingdom, and Corininth supplied the Oikia with exotic exports from all across Lake Merom. 
 

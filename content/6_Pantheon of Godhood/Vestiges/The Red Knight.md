@@ -3,7 +3,7 @@
 #### Description
 The Red Night is a[[ _Vestige]] of [[Kolasi]].
 Was the partner to [[Heron]].
-Was a member of the [[Overlords]].
+Was a member of the [[_Overlords]].
 
 "*ELIZABETH! ELIZABETH! WHERE ARE YOU! WHY DO YOU HIDE! I LOVE YOU PLEASE COME BACK IT HURTS-*"
 
