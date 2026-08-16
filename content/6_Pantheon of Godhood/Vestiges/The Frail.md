@@ -1,6 +1,5 @@
 
 ![[lot creature token.png]]
-
 #### Description
 The Frail are [[ _Vestige]]s of Strife.
 
