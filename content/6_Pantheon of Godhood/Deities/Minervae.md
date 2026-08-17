@@ -16,6 +16,7 @@ Her [[_Vestige]]s are:
 - [[Vae Pyroxene]]
 - [[Vae Regolith]]
 - [[Vae Thorium]]
+Minervic Vestiges are also known as *Divine Constructions*. 
 
 Known Users of her essence:
 - [[Dulrum]]

@@ -20,6 +20,8 @@ Guiding Questions:
 - is there any ideals you would like to instill within the Order?
 - how would you like the Order to figure out Baragulva? how do you think he would react? protective or not?
 - how social is Dosk? does he mingle with people inside and outside the Order as he grows up?
+- appetence, your affliction, how would you like it to manifest?
+
 
 
 

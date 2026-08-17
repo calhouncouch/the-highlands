@@ -14,7 +14,7 @@ His essence originates from:
 His [[_Vestige]]s are:
 - [[The Red Knight]]
 
-Known Users of his essence:
+Known Users of His essence:
 - [[Aduro]]
 
 #### Spells 

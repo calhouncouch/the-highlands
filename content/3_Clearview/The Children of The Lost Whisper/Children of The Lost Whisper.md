@@ -9,9 +9,9 @@ Is a cult founded by [[Maarx Seedyr]] that operates within [[Clearview]]. Its or
 #### Categorization
 Following the proper summoning of [[Desire]], *The Conduit of Mortal Desire*, the Children of The Lost Whisper fractured into three separate denominations. Each denomination dedicated to the veneration of *one and only one* Spawn of Chaos. 
 
-1. The [[Denomination of Lust]]
+1. The [[_Denomination of Lust]]
 
-2. The [[Denomination of Wrath]]
+2. The [[_Denomination of Wrath]]
 
-3. The[[ Denomination of Lethargy]]
+3. The[[_Denomination of Lethargy]]
 

@@ -4,6 +4,6 @@
 		{"id":"aa54d953232234d9","type":"file","file":"6_Pantheon of Godhood/Greater Elementals/_Greater Elemental.md","x":-294,"y":340,"width":400,"height":400}
 	],
 	"edges":[
-		{"id":"9c5b7b7fde044e37","fromNode":"633f3edda428a95a","fromSide":"bottom","toNode":"aa54d953232234d9","toSide":"top","color":"1"}
+		{"id":"f89b38d6e3c6dcb5","fromNode":"633f3edda428a95a","fromSide":"bottom","toNode":"aa54d953232234d9","toSide":"top","color":"1"}
 	]
 }
