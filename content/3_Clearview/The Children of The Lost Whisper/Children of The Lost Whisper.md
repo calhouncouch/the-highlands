@@ -13,5 +13,5 @@ Following the proper summoning of [[Desire]], *The Conduit of Mortal Desire*, th
 
 2. The [[_Denomination of Wrath]]
 
-3. The[[_Denomination of Lethargy]]
+3. The [[_Denomination of Lethargy]]
 
