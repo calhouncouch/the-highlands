@@ -23,4 +23,6 @@ List of Sessions that [[The Party]] have done:
 20. [[Session 20 - Menacing Implications]]
 21. [[Session 21 - The Shadowed Veil]]
 22. [[Session 22 - The Gore-Leviathan Rises]]
+23. [[Session 23 - Dancing Shadows]]
+
 

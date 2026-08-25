@@ -8,7 +8,7 @@ Is the medical company that runs the hospital within [[Corininth]].
 #### Characters
 BioImmune, and its subsidiary force The Collectors, have many employees. Notably:
 - [[Jess]], former Collector 
-- [[Leo]], current Collector
+- Leo, current Collector
 - Renee, the Head Nurse of Hospice
 
 #### Security

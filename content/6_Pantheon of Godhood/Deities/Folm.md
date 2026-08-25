@@ -14,7 +14,7 @@ His [[_Vestige]]s are:
 - [[Baragulva]] 
 
 Known Users of his essence:
-- [[XX]]
+- [[Hergan Dosk]]
 
 #### Spells
 Damage Types Associated with Folm, *The Gaping Maw* are: 

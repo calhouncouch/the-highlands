@@ -4,7 +4,7 @@ The Party consists of five members:
 - [[Aduro]]
 - [[Leoc Everstead]]
 - [[Ibrem]]
-- [[XX]]
+- [[Hergan Dosk]]
 
 
 
