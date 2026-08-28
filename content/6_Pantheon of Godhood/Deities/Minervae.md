@@ -1,4 +1,5 @@
 
+![[minervae token.png]]
 ### <span style="color:rgb(70, 130, 180)"><i>The Lady of the Forge</i></span>
 Pronounced: MIN UR VAY
 Color: Steel Blue (#4682B4 or 70, 130, 180)
