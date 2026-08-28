@@ -1,10 +1,44 @@
 {
 	"nodes":[
-		{"id":"8a4c69757a516cb2","x":260,"y":-261,"width":400,"height":400,"color":"#00ff00","type":"file","file":"6_Pantheon of Godhood/Greater Elementals/Suturei.md"},
-		{"id":"196d4db618e3e7a6","x":820,"y":-261,"width":400,"height":400,"color":"#ed2100","type":"file","file":"6_Pantheon of Godhood/Greater Elementals/Mopathe.md"},
-		{"id":"2152bfb0635b6d2f","x":1380,"y":-261,"width":400,"height":400,"color":"#000000","type":"file","file":"6_Pantheon of Godhood/Greater Elementals/Anathet.md"},
-		{"id":"9092a82b7aa27ad6","x":1940,"y":-261,"width":400,"height":400,"color":"#007fff","type":"file","file":"6_Pantheon of Godhood/Greater Elementals/Astrula.md"},
-		{"id":"d7a4ba2f418f5564","x":2520,"y":-261,"width":400,"height":400,"color":"#ffed29","type":"file","file":"6_Pantheon of Godhood/Greater Elementals/Eloneloae.md"}
+		{"id":"0a49b8958178143b","x":-400,"y":560,"width":400,"height":400,"color":"#f94d00","type":"file","file":"6_Pantheon of Godhood/Deities/Folm.md"},
+		{"id":"c89dec2863af96fb","x":-1040,"y":560,"width":400,"height":400,"color":"#780606","type":"file","file":"6_Pantheon of Godhood/Deities/Mavorus.md"},
+		{"id":"3ebf48e32e9cba92","x":240,"y":560,"width":400,"height":400,"color":"#ff991c","type":"file","file":"6_Pantheon of Godhood/Deities/Kolasi.md"},
+		{"id":"a7b753db6ca83654","x":880,"y":560,"width":400,"height":400,"color":"#ffef00","type":"file","file":"6_Pantheon of Godhood/Deities/Lyrus.md"},
+		{"id":"a5f74a8ada539c28","x":1520,"y":560,"width":400,"height":400,"color":"#7cfc00","type":"file","file":"6_Pantheon of Godhood/Deities/Mesenrie.md"},
+		{"id":"16218ac49fcb121b","x":2160,"y":560,"width":400,"height":400,"color":"#00ffff","type":"file","file":"6_Pantheon of Godhood/Deities/Caligo.md"},
+		{"id":"440e38214ae3ffbe","x":2800,"y":560,"width":400,"height":400,"color":"#4682b4","type":"file","file":"6_Pantheon of Godhood/Deities/Minervae.md"},
+		{"id":"ba83eb61a1efca02","x":3440,"y":560,"width":400,"height":400,"color":"#4b0082","type":"file","file":"6_Pantheon of Godhood/Deities/Cavernicus.md"},
+		{"id":"7f7118b8df009d35","x":4080,"y":560,"width":400,"height":400,"color":"#ff1d8d","type":"file","file":"6_Pantheon of Godhood/Deities/Liligothra.md"},
+		{"id":"7d0b46e580a9322a","x":4720,"y":560,"width":400,"height":400,"color":"#702963","type":"file","file":"6_Pantheon of Godhood/Deities/Desire.md"},
+		{"id":"56d92550d5dbca97","x":5360,"y":560,"width":400,"height":400,"color":"#953553","type":"file","file":"6_Pantheon of Godhood/Deities/Strife.md"},
+		{"id":"0f18d7a9fc42aa40","x":6000,"y":560,"width":400,"height":400,"color":"#372528","type":"file","file":"6_Pantheon of Godhood/Deities/Rot.md"},
+		{"id":"31baaefb898a4577","x":6640,"y":560,"width":400,"height":400,"color":"#0b0510","type":"file","file":"6_Pantheon of Godhood/Deities/Quietus.md"},
+		{"id":"2152bfb0635b6d2f","type":"file","file":"6_Pantheon of Godhood/Greater Elementals/Anathet.md","x":5360,"y":-200,"width":400,"height":400,"color":"#000000"},
+		{"id":"9092a82b7aa27ad6","type":"file","file":"6_Pantheon of Godhood/Greater Elementals/Astrula.md","x":4080,"y":-200,"width":400,"height":400,"color":"#007fff"},
+		{"id":"8a4c69757a516cb2","type":"file","file":"6_Pantheon of Godhood/Greater Elementals/Suturei.md","x":2800,"y":-200,"width":400,"height":400,"color":"#00ff00"},
+		{"id":"d7a4ba2f418f5564","type":"file","file":"6_Pantheon of Godhood/Greater Elementals/Eloneloae.md","x":1520,"y":-200,"width":400,"height":400,"color":"#ffed29"},
+		{"id":"196d4db618e3e7a6","type":"file","file":"6_Pantheon of Godhood/Greater Elementals/Mopathe.md","x":240,"y":-200,"width":400,"height":400,"color":"#ed2100"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"3d627fbbd8172aca","fromNode":"2152bfb0635b6d2f","fromSide":"bottom","toNode":"31baaefb898a4577","toSide":"top","color":"#000000"},
+		{"id":"bbee469a101b6b5d","fromNode":"2152bfb0635b6d2f","fromSide":"bottom","toNode":"0f18d7a9fc42aa40","toSide":"top","color":"#000000"},
+		{"id":"72ec286f560a0d1a","fromNode":"2152bfb0635b6d2f","fromSide":"bottom","toNode":"56d92550d5dbca97","toSide":"top","color":"#000000"},
+		{"id":"dbc1746cd8d96bd7","fromNode":"2152bfb0635b6d2f","fromSide":"bottom","toNode":"7d0b46e580a9322a","toSide":"top","color":"#000000"},
+		{"id":"7fbcba35821f1073","fromNode":"d7a4ba2f418f5564","fromSide":"bottom","toNode":"7d0b46e580a9322a","toSide":"top","color":"#ffed29"},
+		{"id":"e27aa7b73b5aeab0","fromNode":"9092a82b7aa27ad6","fromSide":"bottom","toNode":"0f18d7a9fc42aa40","toSide":"top","color":"#007fff"},
+		{"id":"d15cfcc5060deb2f","fromNode":"196d4db618e3e7a6","fromSide":"bottom","toNode":"56d92550d5dbca97","toSide":"top","color":"#ed2100"},
+		{"id":"eebeb145eafb77f2","fromNode":"d7a4ba2f418f5564","fromSide":"bottom","toNode":"7f7118b8df009d35","toSide":"top","color":"#ffed29"},
+		{"id":"bbe8bd80d4219f14","fromNode":"d7a4ba2f418f5564","fromSide":"bottom","toNode":"ba83eb61a1efca02","toSide":"top","color":"#ffed29"},
+		{"id":"a77214b3485b66bf","fromNode":"196d4db618e3e7a6","fromSide":"bottom","toNode":"ba83eb61a1efca02","toSide":"top","color":"#ed2100"},
+		{"id":"f44f0efeb689449a","fromNode":"9092a82b7aa27ad6","fromSide":"bottom","toNode":"440e38214ae3ffbe","toSide":"top","color":"#007fff"},
+		{"id":"a9b63ee09813802c","fromNode":"d7a4ba2f418f5564","fromSide":"bottom","toNode":"16218ac49fcb121b","toSide":"top","color":"#ffed29"},
+		{"id":"305c27b5b646809a","fromNode":"9092a82b7aa27ad6","fromSide":"bottom","toNode":"16218ac49fcb121b","toSide":"top","color":"#007fff"},
+		{"id":"ec4e29023ba7df14","fromNode":"d7a4ba2f418f5564","fromSide":"bottom","toNode":"a5f74a8ada539c28","toSide":"top","color":"#ffed29"},
+		{"id":"baf85554fb57143c","fromNode":"d7a4ba2f418f5564","fromSide":"bottom","toNode":"a7b753db6ca83654","toSide":"top","color":"#ffed29"},
+		{"id":"a0dbc355184b81ea","fromNode":"9092a82b7aa27ad6","fromSide":"bottom","toNode":"3ebf48e32e9cba92","toSide":"top","color":"#007fff"},
+		{"id":"c8a450b87de141a1","fromNode":"9092a82b7aa27ad6","fromSide":"bottom","toNode":"0a49b8958178143b","toSide":"top","color":"#007fff"},
+		{"id":"a94e77ab2ef4fa37","fromNode":"196d4db618e3e7a6","fromSide":"bottom","toNode":"3ebf48e32e9cba92","toSide":"top","color":"#ed2100"},
+		{"id":"7bc56b4140829323","fromNode":"196d4db618e3e7a6","fromSide":"bottom","toNode":"0a49b8958178143b","toSide":"top","color":"#ed2100"},
+		{"id":"8275526d8dde09a1","fromNode":"196d4db618e3e7a6","fromSide":"bottom","toNode":"c89dec2863af96fb","toSide":"top","color":"#ed2100"}
+	]
 }

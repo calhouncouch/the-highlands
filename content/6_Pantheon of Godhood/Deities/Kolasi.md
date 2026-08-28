@@ -8,7 +8,7 @@ Color: Bright Orange (#FF991C or 255, 153, 28)
 #### Place in the Pantheon
 Kolasi is a [[_Deity]]. 
 His essence originates from:
-- [[Mavorus]], *The Unending Army*
+- [[Mopathe]], *Destruction Incarnate*
 - [[Astrula]], *The Universal Constant*
 
 His [[_Vestige]]s are:
