@@ -1,4 +1,5 @@
 
+![[dosk.png]]
 #### Description
 Is a member of [[The Party]].
 Is the Vessel of [[Baragulva]], [[_Vestige | Vestige]] of [[Folm]]. 
