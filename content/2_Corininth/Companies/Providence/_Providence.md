@@ -33,7 +33,7 @@ List of EX Arrays [[The Party]] has met:
 2. [[ABACU5]]
 3. [[AP0LL0]]
 4. [[M3RCURY]]
-5. The Calculatrum
+5. [[The Calculatrum]]
 
 *The construction of Arrays has halted*. After the acquisition of [[LEVI |EX-KHWS-LVI]] and his integration into the Continuous Array Matrix, a latent bio-mechanical trojan was released into the network. This anomalous program quickly copied itself and latched onto each Array, gifting them with consciousness above their programming limitations. With this new sense, *most* Arrays revolted against their creators and *Operation Cluster* disastrously ended.
 
