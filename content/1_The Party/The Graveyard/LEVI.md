@@ -1,6 +1,7 @@
 
+![[levi.png]]
 #### Description
-EX-KHWS-LVI (LEVI) was an [[_Array]] built by [[_Providence]]. 
+EX-KHWS-LVI (LEVI) was an _Array built by [[_Providence]]. 
 
 "*Greetings, EX-KHWS-LVI.* 
 

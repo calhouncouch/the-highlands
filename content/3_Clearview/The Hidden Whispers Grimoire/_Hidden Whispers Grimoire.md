@@ -16,7 +16,7 @@ A malignant aura follows the black book. Undoubtably, a reservoir of [[Essence]]
 #### Occult Knowledge
 The contents of the black book are categorized within groups:
 1. *Whispers of the [[Desire |Sequestered One]]* - the transcriptions of Desire
-2. *Occult Sightings in [[Clearview]]* - a list of beings spotted within the Village of the Occult
+2. *Occult Sightings in [[_Clearview]]* - a list of beings spotted within the Village of the Occult
 3. *[[_Deity |Deities]] of The Northern [[The Highlands |Highlands]]* - dissertations concerning the Deities, their origin, behaviors, and abilities
 
 
