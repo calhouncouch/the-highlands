@@ -8,6 +8,7 @@ Color: Azure (#007FFF or 0, 127, 255)
 #### Place in the Pantheon
 Astrula is a [[_Greater Elemental]].
 From her essence came:
+- [[Caligo]], The Mystwalker
 - [[Minervae]], *The Lady of the Forge*
 - [[Rot]], *The Inevitability of Mortal Rot*
 - [[Folm]], *The Gaping Maw*

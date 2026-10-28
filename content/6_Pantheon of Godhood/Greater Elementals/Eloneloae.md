@@ -8,6 +8,7 @@ Color: Bright Yellow (#FFED29 or 255, 237, 41)
 #### Place in the Pantheon 
 Eloneloae is a [[_Greater Elemental]].
 From their essence came:
+- [[Caligo]], The Mystwalker
 - [[Cavernicus]], The Weapons of the Betrayed
 - [[Desire]], The Conduit of Mortal Desire
 - [[Mesenrie]], The Free Spirit
